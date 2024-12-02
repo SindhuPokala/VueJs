@@ -1,0 +1,112 @@
+{
+  "places": [
+    {
+      "image": "https://image.freepik.com/free-photo/beautiful-taj-mahal-garden-india-agra_400112-866.jpg?w=2000",
+      "name": "Agra Heritage Tour",
+      "location": "Agra, India",
+      "about": "Witness the grandeur of the Taj Mahal and explore the Mughal heritage.",
+      "prize": "₹5,000"
+    },
+    {
+      "image": "assets/jaipur.jpeg",
+      "name": "Jaipur Gateway",
+      "location": "Jaipur, India",
+      "about": "Immerse yourself in the Pink City's royal palaces and vibrant bazaars.",
+      "prize": "₹4,500"
+    },
+    {
+      "image": "assets/kerala.jpeg",
+      "name": "Kerala Backwaters",
+      "location": "Kerala, India",
+      "about": "Relax amidst serene backwaters and lush greenery in God's Own Country.",
+      "prize": "₹6,000"
+    },
+    {
+      "image": "assets/mumbai.jpeg",
+      "name": "Mumbai Explorer",
+      "location": "Mumbai, India",
+      "about": "Experience the bustling streets, Marine Drive, and Bollywood charm of Mumbai.",
+      "prize": "₹4,000"
+    },
+    {
+      "image": "assets/ladakh.jpeg",
+      "name": "Leh-Ladakh Adventure",
+      "location": "Leh-Ladakh, India",
+      "about": "Discover the stunning landscapes and unique culture of the Himalayas.",
+      "prize": "₹10,000"
+    },
+    {
+      "image": "assets/delhi.jpeg",
+      "name": "Delhi History Tour",
+      "location": "Delhi, India",
+      "about": "Explore India's capital with its historic monuments and vibrant street life.",
+      "prize": "₹3,500"
+    },
+    {
+      "image": "assets/goa.jpeg",
+      "name": "Goa Beach Retreat",
+      "location": "Goa, India",
+      "about": "Relax on sun-kissed beaches and enjoy the vibrant nightlife of Goa.",
+      "prize": "₹7,000"
+    },
+    {
+      "image": "assets/kolkata.jpeg",
+      "name": "Kolkata Culture Trip",
+      "location": "Kolkata, India",
+      "about": "Delve into the rich history, literature, and art of the City of Joy.",
+      "prize": "₹3,800"
+    },
+    {
+      "image": "assets/hyderabd.jpeg",
+      "name": "Hyderabad Heritage Walk",
+      "location": "Hyderabad, India",
+      "about": "Discover the historic Charminar and taste the world-famous Hyderabadi Biryani.",
+      "prize": "₹4,200"
+    },
+    {
+      "image": "assets/udaipur.jpeg",
+      "name": "Udaipur Royal Escape",
+      "location": "Udaipur, India",
+      "about": "Experience the romance of the City of Lakes and its stunning palaces.",
+      "prize": "₹6,500"
+    },
+    {
+      "image": "assets/shimla.jpeg",
+      "name": "Shimla Hills Adventure",
+      "location": "Shimla, India",
+      "about": "Explore the Queen of Hills with its colonial charm and scenic landscapes.",
+      "prize": "₹5,500"
+    },
+    {
+      "image": "assets/varanasi.jpg",
+      "name": "Varanasi Spiritual Journey",
+      "location": "Varanasi, India",
+      "about": "Experience the spiritual aura of the Ganges and ancient temples in Varanasi.",
+      "prize": "₹3,000"
+    }
+  ],
+  "blogs": [
+  {
+    "image": "images/top-places-india.jpg",
+    "Date": "April 22, 2022",
+    "name": "by Rakesh",
+    "location": "The top 10 best places to visit in India",
+    "about": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. At eligendi blanditiis veniam suscipit, consequatur assumenda recusandae nostrum..."
+  },
+  {
+    "image": "images/hidden-gems-europe.jpg",
+    "Date": "June 15, 2023",
+    "name": "by Priya",
+    "location": "Exploring the Hidden Gems of Europe",
+    "about": "Discover the unexplored treasures of Europe. From charming villages to mesmerizing landscapes, Europe offers more than its popular destinations..."
+  },
+  {
+    "image": "images/street-food-guide.jpg",
+    "Date": "March 10, 2024",
+    "name": "by Alex",
+    "location": "A Foodie's Guide to the Best Street Food Worldwide",
+    "about": "Embark on a culinary journey around the globe! This blog explores the top street food spots, serving mouthwatering delights from Asia, Europe, and beyond..."
+  }
+]
+
+}
